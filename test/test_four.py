@@ -3,7 +3,7 @@
 
 import unittest
 import re
-from section_four import *
+from section.four import *
 
 
 class TestSectionFour(unittest.TestCase):
